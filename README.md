@@ -13,13 +13,20 @@
 7. Use if-else statements to determine the grade based on the average:
 
    • If average ≥ 90, print "Grade: O"
+   
    • Else if average ≥ 85 and < 90, print "Grade: A+"
+   
    • Else if average ≥ 75 and < 85, print "Grade: A"
+   
    • Else if average ≥ 65 and < 75, print "Grade: B+"
+   
    • Else if average ≥ 55 and < 65, print "Grade: B"
+   
    • Else if average ≥ 40 and < 55, print "Grade: C"
+   
    • Else, print "Fail"
-8. End the program.
+   
+9. End the program.
 
 ~ Theory:
 
